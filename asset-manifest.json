@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/useeffect5-react/static/css/main.29edc926.css",
+    "main.js": "/useeffect5-react/static/js/main.4ff29360.js",
+    "index.html": "/useeffect5-react/index.html",
+    "main.29edc926.css.map": "/useeffect5-react/static/css/main.29edc926.css.map",
+    "main.4ff29360.js.map": "/useeffect5-react/static/js/main.4ff29360.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29edc926.css",
+    "static/js/main.4ff29360.js"
+  ]
+}
